@@ -4,7 +4,7 @@
 ## Usage example: 
 
 ## m <- matrix(c(1:4),2,2)                # creates a matrix
-## cached_m <- makeCacheMatrix(m)   # sets the matrix cache environment
+## cached_m <- makeCacheMatrix(m)         # sets the matrix cache environment
 ## cacheSolve(cached_m)                   # calculates the inverse matrix and
 ##                                        # sets the value in the cache
 ## cachesolve(cached_m)                   # gets the value from the cache
